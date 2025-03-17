@@ -1,0 +1,5 @@
+Flask
+geopy
+gunicorn
+requests
+python-dotenv
