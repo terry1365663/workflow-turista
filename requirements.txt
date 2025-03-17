@@ -1,5 +1,5 @@
 Flask
 geopy
-gunicorn
 requests
+gunicorn
 python-dotenv
